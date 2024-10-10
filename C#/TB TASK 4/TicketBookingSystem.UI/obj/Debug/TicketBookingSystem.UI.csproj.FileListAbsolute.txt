@@ -1,0 +1,14 @@
+C:\Users\anish\Desktop\Assignment Cs\TicketBookingSystem.UI\obj\Debug\TicketBookingSystem.UI.csproj.AssemblyReference.cache
+C:\Users\anish\Desktop\Assignment Cs\TicketBookingSystem.UI\obj\Debug\TicketBookingSystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\obj\Debug\TicketBookingSystem.UI.csproj.AssemblyReference.cache
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\obj\Debug\TicketBookingSystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\bin\Debug\TicketBookingSystem.UI.exe.config
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\bin\Debug\TicketBookingSystem.UI.exe
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\bin\Debug\TicketBookingSystem.UI.pdb
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\bin\Debug\TicketBookingSystem.Businesslayer.dll
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\bin\Debug\TicketBoookingSystem.Entity.dll
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\bin\Debug\TicketBookingSystem.Businesslayer.pdb
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\bin\Debug\TicketBoookingSystem.Entity.pdb
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\obj\Debug\TicketBo.8F25027D.Up2Date
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\obj\Debug\TicketBookingSystem.UI.exe
+C:\Users\anish\Desktop\Assignment Cs\Task 4\TicketBookingSystem.UI\obj\Debug\TicketBookingSystem.UI.pdb
