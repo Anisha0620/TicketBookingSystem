@@ -1,9 +1,0 @@
-C:\Users\anish\Desktop\Assignment Cs\TB TASK 7 and 8\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.BusinessLayer.dll
-C:\Users\anish\Desktop\Assignment Cs\TB TASK 7 and 8\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.BusinessLayer.pdb
-C:\Users\anish\Desktop\Assignment Cs\TB TASK 7 and 8\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.Entity.dll
-C:\Users\anish\Desktop\Assignment Cs\TB TASK 7 and 8\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.Entity.pdb
-C:\Users\anish\Desktop\Assignment Cs\TB TASK 7 and 8\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.csproj.AssemblyReference.cache
-C:\Users\anish\Desktop\Assignment Cs\TB TASK 7 and 8\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.csproj.CoreCompileInputs.cache
-C:\Users\anish\Desktop\Assignment Cs\TB TASK 7 and 8\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBo.DA6B1B29.Up2Date
-C:\Users\anish\Desktop\Assignment Cs\TB TASK 7 and 8\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.dll
-C:\Users\anish\Desktop\Assignment Cs\TB TASK 7 and 8\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.pdb
