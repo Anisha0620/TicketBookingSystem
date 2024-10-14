@@ -1,6 +1,0 @@
-C:\Users\anish\Desktop\Assignment Cs\TicketBoookingSystem.Entity\bin\Debug\TicketBoookingSystem.Entity.dll
-C:\Users\anish\Desktop\Assignment Cs\TicketBoookingSystem.Entity\bin\Debug\TicketBoookingSystem.Entity.pdb
-C:\Users\anish\Desktop\Assignment Cs\TicketBoookingSystem.Entity\obj\Debug\TicketBoookingSystem.Entity.csproj.AssemblyReference.cache
-C:\Users\anish\Desktop\Assignment Cs\TicketBoookingSystem.Entity\obj\Debug\TicketBoookingSystem.Entity.csproj.CoreCompileInputs.cache
-C:\Users\anish\Desktop\Assignment Cs\TicketBoookingSystem.Entity\obj\Debug\TicketBoookingSystem.Entity.dll
-C:\Users\anish\Desktop\Assignment Cs\TicketBoookingSystem.Entity\obj\Debug\TicketBoookingSystem.Entity.pdb
